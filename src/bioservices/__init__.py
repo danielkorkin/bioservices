@@ -39,6 +39,7 @@ from . import services  # isort: skip
 from .services import *  # isort: skip
 
 from . import (
+    afdb,
     apps,
     arrayexpress,
     bigg,
